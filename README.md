@@ -1,5 +1,5 @@
 <h1 align="center">Hi! I'm Seunghee Lucy Han  👩🏻‍💻 </h1>
-<h4 align="center">My programming challenge as a non-major student 💭</h4>
+<h3 align="center">My programming challenge as a non-major student 💭</h3>
 
 
 
@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chengxxi&" alt="chengxxi" /></p>
 
-# chengxxo
