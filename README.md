@@ -2,7 +2,8 @@
 <h3 align="center">My programming challenge as a non-major student 💭</h3>
 
 
-<br/>
+
+
 - 🔭 I’m currently educated at [SSAFY](https://www.ssafy.com/)
 - 🌱 I’m currently learning **Python**
 - 📫 How to reach me: **heeya121z@korea.ac.kr**
