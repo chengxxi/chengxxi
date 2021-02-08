@@ -3,7 +3,7 @@
 
 
 - 🎓  I studied **Business Administration** and **Software Venture** in **Korea Univ.**
-- 💻  I’m currently educated at [SSAFY](https://www.ssafy.com/)
+- 💻  I’m currently educated at [SSAFY](https://www.ssafy.com/).
 - 🌱  I’m currently learning **Python**.
 - 🔭  I'm interested in Front-end development.
 - 📫  How to reach me: heeya121z@korea.ac.kr
