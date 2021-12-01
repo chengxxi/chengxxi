@@ -23,4 +23,4 @@
 ![GitLab](https://img.shields.io/badge/GitLab-fca121?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira%20Software-0052cc?style=for-the-badge&logo=jira-software&logoColor=white)
 ![Mattermost](https://img.shields.io/badge/Mattermost-0058cc?style=for-the-badge&logo=mattermost&logoColor=white)
-
+![Slack](https://img.shields.io/badge/Slack-4a154b?style=for-the-badge&logo=slack&logoColor=white) 
